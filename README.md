@@ -1,2 +1,2 @@
-# luxuLeo.guthub.io
+# luxuLeo.github.io
 C++
